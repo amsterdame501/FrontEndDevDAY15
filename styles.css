@@ -1,0 +1,13 @@
+.container{
+    display: grid;
+    padding: 10px;
+    gap: 10px;
+}
+
+
+
+.product-img{
+    width: 100%;
+    height: 25vw;
+    object-fit: contain;
+}
