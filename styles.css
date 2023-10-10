@@ -1,13 +1,17 @@
-.container{
+.text-product{
     display: grid;
-    padding: 10px;
-    gap: 10px;
+    text-align: left;
+    justify-content: left;
 }
-
-
-
-.product-img{
-    width: 100%;
-    height: 25vw;
-    object-fit: contain;
+.stock-box{
+    text-align: left;
+}
+.spec-table{
+    text-align: left;
+}
+.rate-box{
+    text-align: left;
+}
+.review-box{
+    text-align: left;
 }
